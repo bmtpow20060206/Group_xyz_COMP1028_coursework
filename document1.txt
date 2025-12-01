@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog. This sentence contains all letters of the English alphabet. It is often used for testing fonts and keyboard layouts.
+
+Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using many programming languages such as JavaScript, Python, C++, and many others.
+
+Learning to code is fun and challenging. It opens up many career opportunities in the technology industry. Many companies are looking for skilled programmers.

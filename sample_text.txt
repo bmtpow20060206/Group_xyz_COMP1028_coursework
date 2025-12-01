@@ -1,0 +1,19 @@
+This is a sample text file for testing the toxic text analyzer program.
+The weather is really nice today and I feel very happy and excited.
+However, sometimes people say stupid things that can be really annoying.
+I hate it when others behave like idiots and do dumb things.
+But overall, life is beautiful and we should focus on positive things.
+Programming is fun and challenging at the same time.
+Let's hope this analyzer works perfectly and detects all toxic words.
+fuck fuck fuck
+You are an idiot and I hate you.
+Go kill yourself, loser.
+Fuck off and die.
+You stupid bitch, shut up.
+I wish you would disappear forever.
+Retard, no one likes you.
+Die in a fire, you worthless human.
+Piss off, I can't stand you.
+The quick brown fox jumps over the lazy dog.
+Programming is the process of creating instructions for computers.
+Learning to code is fun and opens career opportunities.
